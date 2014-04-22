@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"res/xml/config.xml":{"/*":{"<feature name=\"WebIntent\"><param name=\"android-package\" value=\"net.tunts.webintent\" /></feature>":0}}},"installed_plugins":{"net.tunts.webintent":{"PACKAGE_NAME":"com.palmomedia.webintent"}},"dependent_plugins":{}}
